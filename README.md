@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SawoJavan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in .Cyber security, JavaScript, Node Js..
+- 🌱 I’m currently learning ..Python.
+- 💞️ I’m looking to collaborate on .new technology trends
+- ..
 - 📫 How to reach me at sawojavan@gmail.com
 
 <!---
